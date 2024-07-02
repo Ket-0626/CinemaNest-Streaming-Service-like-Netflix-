@@ -4,9 +4,9 @@
 
 ## Technologies Used
 
-- Frontend: HTML, CSS, Bootstrap, JavaScript, jQuery
+- Frontend: HTML, CSS, Bootstrap, JavaScript
 - Backend: Java (JSP, Servlet)
-- Database: MySQL
+- Database: SQL
 
 ## Features
 
